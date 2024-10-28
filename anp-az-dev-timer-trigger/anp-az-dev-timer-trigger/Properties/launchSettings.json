@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "anp_az_dev_timer_trigger": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7171",
+      "launchBrowser": false
+    }
+  }
+}
